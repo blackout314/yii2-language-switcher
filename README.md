@@ -50,8 +50,8 @@ You must define available languages in `Yii::$app->params['languages']` as code 
 
 ```php
 'languages' => [
-    'en' => 'english',
-    'ru' => 'russian',
+    'en' => 'en',
+    'ru' => 'ru',
 ]
 ```
 
